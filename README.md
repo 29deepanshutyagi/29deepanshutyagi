@@ -11,7 +11,7 @@
 ### Skills
 
 <p align="left">
-<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" width="36" height="36" alt="C" /></a>
+<a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" width="36" height="36" alt="C" /></a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="36" height="36" alt="JavaScript" /></a>
 
