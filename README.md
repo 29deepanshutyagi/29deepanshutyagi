@@ -20,24 +20,14 @@
 <br>
  <a href="https://www.linkedin.com/in/deepanshu-tyagi-2122ab268" target="_blank" rel="noreferrer"><img src="https://static.cdn.wisestamp.com/wp-content/uploads/2021/01/linkedin-icon-circle.png" width="32" height="32" /></a> <br> <a href="https://mailto:29deepanshutyagi@gmail.com" target="_blank" rel="noreferrer"><img src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-Logo.jpg" width="55" height="32" /></a></p>
 
-# 📊GitHub Stats :
-<p align="center">
-<a href="https://github.com/29deepanshutyagi">
-  <br>
-  <br>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=29deepanshutyagi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <br>
-  <br>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=29deepanshutyagi&layout=compact&langs_count=8&theme=algolia"/>
-  <br>
-  <br>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=29deepanshutyagi&theme=tokyonight"/>	
-</a>
-</p>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
 
-### ✍️Just a random dev quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
----
+### Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=29deepanshutyagi&show_icons=true&locale=en&layout=compact&access_token=${process.env.PAT_1}" alt="unnati914" /></p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=29deepanshutyagi&show_icons=true&locale=en&access_token=${process.env.PAT_1}" alt="unnati914" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=29deepanshutyagi&" alt="29deepanshutyagi" /></p>
 
