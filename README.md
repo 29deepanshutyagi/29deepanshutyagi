@@ -16,7 +16,7 @@
 
 </p>
 
-### Socials 
+### Social
 <br>
  <a href="https://www.linkedin.com/in/deepanshu-tyagi-2122ab268" target="_blank" rel="noreferrer"><img src="https://static.cdn.wisestamp.com/wp-content/uploads/2021/01/linkedin-icon-circle.png" width="32" height="32" /></a> <br> <a href="https://mailto:29deepanshutyagi@gmail.com" target="_blank" rel="noreferrer"><img src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-Logo.jpg" width="55" height="32" /></a></p>
 
