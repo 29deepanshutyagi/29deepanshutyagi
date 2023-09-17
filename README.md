@@ -7,7 +7,7 @@
 * 🌍  I'm based in India
 * 🧠  I'm currently learning DSA | Django
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=29deepanshutyagi&label=Profile%20views&color=0e75b6&style=flat" alt="29deepanshutyagi" /> </p>
-
+  
 ### Skills
 
 <p align="left">
