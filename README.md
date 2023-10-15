@@ -3,14 +3,12 @@
 
 <h3 align="center"> Web Development || Coding Enthusiast </h3>
 
-
+[![An image of @29deepanshutyagi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/29deepanshutyagi)](https://holopin.io/@29deepanshutyagi)
 * 🌍  I'm based in India
 * 🧠  I'm currently learning DSA | Django
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=29deepanshutyagi&label=Profile%20views&color=0e75b6&style=flat" alt="29deepanshutyagi" /> </p>
-  
+
 ### Skills
-
-
 
 <br clear="both">
 
