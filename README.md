@@ -1,6 +1,6 @@
 <h2 align="center"> Hi 👋 My name is Deepanshu Tyagi </h2>
 
-
+ 
 <h3 align="center"> Web Development || Coding Enthusiast </h3>
 
 [![An image of @29deepanshutyagi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/29deepanshutyagi)](https://holopin.io/@29deepanshutyagi)
