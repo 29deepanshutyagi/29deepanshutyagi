@@ -3,7 +3,7 @@
 
 <img src="https://www.digitalonus.com/wp-content/uploads/2019/07/DOU-GIF4.gif" alt="29deepanshutyagi" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanwalker277&label=Profile%20views&color=0e75b6&style=flat" alt="29deepanshutyagi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=29deepanshutyagi&label=Profile%20views&color=0e75b6&style=flat" alt="29deepanshutyagi" /> </p>
 
 - 🌱 I’m currently learning about **Kubernetes**
 
@@ -32,7 +32,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RyanWalker277&layout=compact&langs_count=8&theme=algolia"/>
   <br>
   <br>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RyanWalker277&theme=tokyonight"/>	
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=29deepanshutyagi&theme=tokyonight"/>	
 </a>
 </p>
 
