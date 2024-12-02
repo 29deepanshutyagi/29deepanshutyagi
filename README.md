@@ -11,7 +11,6 @@
 ---
 
 - 🌱 I’m currently learning about **Kubernetes**
-
 - 💬 Ask me about **Django and Flask**
 - 📫 How to reach me: [29deepanshutyagi@gmail.com](mailto:29deepanshutyagi@gmail.com)
 
@@ -76,3 +75,23 @@
 </p>
 
 ---
+
+### 📈 Commit Graph (Spider Net)
+
+<p align="center">
+  <img src="./generated-images/commit_spider_net.png" alt="Commit Spider Net" width="80%" />
+</p>
+
+(*This image is auto-generated via a GitHub Actions workflow*)
+
+---
+
+### 📅 Time-Based Language Stats & Pie Chart
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=29deepanshutyagi&layout=compact&langs_count=8&theme=default" alt="WakaTime Usage" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=29deepanshutyagi&repo=github-readme-stats" alt="Pinned Stats Repo" />
+</p>
