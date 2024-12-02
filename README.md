@@ -41,6 +41,5 @@
 ### ✍️Just a random dev quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 ---
-
 ## 🌐Socials
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/cybertronics360) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/RyanWalker277) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anvansh.singh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anvansh) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/anvansh1) 
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](http://29deepanshutyagi-3d-portfolio.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepanshu-tyagi-2122ab268/) [![LeetCode](https://img.shields.io/badge/LeetCode-%23E4405F.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/29deepanshutyagi/) [![GitHub](https://img.shields.io/badge/GitHub-%231DA1F2.svg?logo=GitHub&logoColor=white)](https://github.com/29deepanshutyagi)
