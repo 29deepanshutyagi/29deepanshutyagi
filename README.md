@@ -26,13 +26,16 @@
 <a href="https://github.com/29deepanshutyagi">
   <br>
   <br>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=29deepanshutyagi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <br>
-  <br>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=29deepanshutyagi&layout=compact&langs_count=8&theme=algolia"/>
-  <br>
-  <br>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=29deepanshutyagi&theme=tokyonight"/>	
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=29deepanshutyagi&show_icons=true&locale=en&layout=compact" alt="29deepanshutyagi" /></p>
+
+<!-- GitHub Stats Card -->
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=29deepanshutyagi&show_icons=true&locale=en" alt="unnati914" /></p>
+
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=29deepanshutyagi&" alt="29deepanshutyagi" /></p>
+
 </a>
 </p>
 
