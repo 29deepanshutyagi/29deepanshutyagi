@@ -76,17 +76,13 @@
 
 ---
 
-### 📈 Commit Graph (Spider Net)
 
 <p align="center">
   <img src="./generated-images/commit_spider_net.png" alt="Commit Spider Net" width="80%" />
 </p>
 
-(*This image is auto-generated via a GitHub Actions workflow*)
 
----
 
-### 📅 Time-Based Language Stats & Pie Chart
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=29deepanshutyagi&layout=compact&langs_count=8&theme=default" alt="WakaTime Usage" />
