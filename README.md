@@ -54,40 +54,26 @@
 
 ---
 
-### 📊 Stats
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=29deepanshutyagi" alt="Trophies" />
-  </a>
+# 📊GitHub Stats :
+<p align="center">
+<a href="https://github.com/29deepanshutyagi">
+  <br>
+  <br>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=29deepanshutyagi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <br>
+  <br>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=29deepanshutyagi&layout=compact&langs_count=8&theme=algolia"/>
+  <br>
+  <br>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=29deepanshutyagi&theme=tokyonight"/>	
+</a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=29deepanshutyagi&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+![](./profile-3d-contrib/profile-green-animate.svg)
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=29deepanshutyagi&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=29deepanshutyagi" alt="Streak Stats" />
-</p>
-
+### ✍️Just a random dev quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 ---
 
-
-<p align="center">
-  <img src="./generated-images/commit_spider_net.png" alt="Commit Spider Net" width="80%" />
-</p>
-
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=29deepanshutyagi&layout=compact&langs_count=8&theme=default" alt="WakaTime Usage" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=29deepanshutyagi&repo=github-readme-stats" alt="Pinned Stats Repo" />
-</p>
+## 🌐Socials
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/cybertronics360) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/29deepanshutyagi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/29deepanshutyagi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/29deepanshutyagi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/29deepanshutyagi)
