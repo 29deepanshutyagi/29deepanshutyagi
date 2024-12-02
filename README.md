@@ -42,4 +42,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 ---
 ## 🌐Socials
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](http://29deepanshutyagi-3d-portfolio.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepanshu-tyagi-2122ab268/) [![LeetCode](https://img.shields.io/badge/LeetCode-%23E4405F.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/29deepanshutyagi/) [![GitHub](https://img.shields.io/badge/GitHub-%231DA1F2.svg?logo=GitHub&logoColor=white)](https://github.com/29deepanshutyagi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepanshu-tyagi-2122ab268/) [![LeetCode](https://img.shields.io/badge/LeetCode-%23E4405F.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/29deepanshutyagi/) [![GitHub](https://img.shields.io/badge/GitHub-%231DA1F2.svg?logo=GitHub&logoColor=white)](https://github.com/29deepanshutyagi)
