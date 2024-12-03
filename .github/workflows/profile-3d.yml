@@ -2,7 +2,7 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "* * * * *" # For testing, runs every minute
+    - cron: "* * * * *" # Testing: Runs every minute
   workflow_dispatch:
 
 jobs:
