@@ -24,7 +24,15 @@ jobs:
         run: |
           git config user.name "github-actions"  
           git config user.email "github-actions@github.com"
-          git pull origin main --rebase  # Fetch and rebase remote changes
-          git add -A .
-          git commit -m "generated 3D profile image"
+          
+          # Check if there are any unstaged changes before proceeding
+          if [[ `git status --porcelain` ]]; then
+            git add -A .
+            git commit -m "generated 3D profile image"
+          fi
+          
+          # Fetch and rebase remote changes
+          git pull origin main --rebase
+          
+          # Push the changes to the remote repository
           git push
