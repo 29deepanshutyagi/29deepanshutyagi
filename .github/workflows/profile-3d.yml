@@ -2,7 +2,7 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "* * * * *" # Testing: Runs every minute
+    - cron: "* * * * *" # For testing: Run every minute
   workflow_dispatch:
 
 jobs:
@@ -21,5 +21,5 @@ jobs:
           git config user.email "github-actions@github.com"
           git pull origin main --rebase
           git add -A
-          git commit -m "generated"
+          git commit -m "generated" || echo "No changes to commit"
           git push origin main
