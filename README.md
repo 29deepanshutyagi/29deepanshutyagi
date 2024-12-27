@@ -50,6 +50,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=29deepanshutyagi&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=29deepanshutyagi&theme=dark" alt="GitHub Profile Summary Card" />
+</p>
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
