@@ -51,7 +51,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=29deepanshutyagi&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=29deepanshutyagi&theme=dark" alt="GitHub Profile Summary Card" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=29deepanshutyagi&bg_color=000000&color=ffffff&line=deddda&point=77767b&area=true&hide_border=true" alt="GitHub Profile Summary Card" />
 </p>
 
 <p align="center">
